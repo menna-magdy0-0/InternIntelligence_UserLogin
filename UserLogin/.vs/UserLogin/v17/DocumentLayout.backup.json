@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\InternIntelligence_UserLogin\\UserLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|d:\\internintelligence_userlogin\\userlogin\\userlogin\\migrations\\20250311152626_loginauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\migrations\\20250311152626_loginauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|d:\\internintelligence_userlogin\\userlogin\\userlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|d:\\internintelligence_userlogin\\userlogin\\userlogin\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|d:\\internintelligence_userlogin\\userlogin\\userlogin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|d:\\internintelligence_userlogin\\userlogin\\userlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE325C5F-37EE-4E17-9E18-F61D9AD84CB6}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250311152626_LoginAuth.cs",
+              "DocumentMoniker": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\Migrations\\20250311152626_LoginAuth.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Migrations\\20250311152626_LoginAuth.cs",
+              "ToolTip": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\Migrations\\20250311152626_LoginAuth.cs",
+              "RelativeToolTip": "UserLogin\\Migrations\\20250311152626_LoginAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:26:27.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "UserLogin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:31:17.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\Program.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Program.cs",
+              "ToolTip": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\Program.cs",
+              "RelativeToolTip": "UserLogin\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAHgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:26:59.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "UserLogin\\appsettings.json",
+              "ToolTip": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\appsettings.json",
+              "RelativeToolTip": "UserLogin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T05:23:40.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\Models\\LoginContext.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Models\\LoginContext.cs",
+              "ToolTip": "D:\\InternIntelligence_UserLogin\\UserLogin\\UserLogin\\Models\\LoginContext.cs",
+              "RelativeToolTip": "UserLogin\\Models\\LoginContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:14:02.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
